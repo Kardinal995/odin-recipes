@@ -1,1 +1,2 @@
-# odin-recipes
+This project will have a main index webpage with links to my favourite recipes.
+The scope of this project is to demonstrate basic HTML knowledge, such as the use of paragraphs, headers, lists, links and images.
